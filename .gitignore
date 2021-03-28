@@ -60,6 +60,8 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+postegres_data/
+data/
 
 # Flask stuff:
 instance/
@@ -148,4 +150,3 @@ dmypy.json
 # папки со статикой и медиа
 static/
 posts/static/
-
