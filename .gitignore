@@ -150,3 +150,5 @@ dmypy.json
 # папки со статикой и медиа
 static/
 posts/static/
+postegres_data
+data
